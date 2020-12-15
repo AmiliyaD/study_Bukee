@@ -1,0 +1,314 @@
+* {
+    font-family: "Roboto Slab";
+}
+
+.reg-btn {
+    border: none;
+    border-radius: 3px;
+    background-color: #65e47d;
+    padding: 10px 15px 10px 15px;
+    color: white;
+
+}
+
+.bg {
+
+    background-image: -moz-linear-gradient(150deg, rgb(84, 183, 161) 0%, rgb(66, 99, 132) 100%);
+    background-image: -webkit-linear-gradient(150deg, rgb(84, 183, 161) 0%, rgb(66, 99, 132) 100%);
+    background-image: -ms-linear-gradient(150deg, rgb(84, 183, 161) 0%, rgb(66, 99, 132) 100%);
+    padding-bottom: 158px;
+    padding-top: 50px;
+    margin-bottom: 150px;
+    color: white;
+}
+
+.bg-ul li a {
+    color: white;
+}
+
+h1 {
+
+    font-size: 48px;
+
+    color: rgb(255, 255, 255);
+    line-height: 0.917;
+
+
+}
+
+.first {
+    margin-top: 150px;
+    color: white;
+
+}
+
+.header {
+
+    font-size: 48px;
+
+    color: rgb(68, 68, 79);
+    font-weight: bold;
+    line-height: 0.917;
+
+
+}
+
+.first-btn {
+
+    border-radius: 3px;
+    background-image: -moz-linear-gradient(180deg, rgb(101, 228, 206) 0%, rgb(101, 228, 161) 100%);
+    background-image: -webkit-linear-gradient(180deg, rgb(101, 228, 206) 0%, rgb(101, 228, 161) 100%);
+    background-image: -ms-linear-gradient(180deg, rgb(101, 228, 206) 0%, rgb(101, 228, 161) 100%);
+    box-shadow: 0px 2px 0px 0px rgba(101, 228, 125, 0.5);
+    border: none;
+    padding: 16px;
+
+    font-size: 18px;
+    font-family: "Roboto Slab";
+    color: rgb(255, 255, 255);
+    line-height: 1.2;
+    margin-bottom: 7px;
+    margin-top: 20px;
+
+}
+
+.first h2 {
+
+    font-size: 48px;
+    /* font-family: "RobotoSlab"; */
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    line-height: 0.917;
+
+
+}
+
+.first-span {
+
+    font-size: 18px;
+    font-family: "Roboto Slab";
+    color: rgb(101, 228, 150);
+    line-height: 2.444;
+
+}
+
+.p-class {
+    margin-top: 30px;
+    font-size: 15px;
+    font-family: 'Roboto Slab';
+    color: rgb(255, 255, 255);
+    line-height: 1.6;
+
+
+}
+
+/*  */
+.first-numbers span {
+    font-size: 80px;
+    font-family: "Roboto Slab";
+    color: rgb(101, 228, 157);
+    line-height: 0.55;
+
+}
+
+.all-numbers {
+    margin-top: 159px;
+}
+
+.first-numbers p {
+    font-size: 18px;
+
+    color: rgb(105, 105, 128);
+    line-height: 2.444;
+}
+
+/* SECOND BG */
+.bg-second {
+    margin-top: 170px;
+    padding-top: 156px;
+    padding-bottom: 230px;
+    background-color: rgb(245, 246, 250);
+
+
+}
+
+.second-ul {
+    padding: 0;
+}
+
+.second-ul li {
+    list-style: none;
+}
+
+.second-ul li {
+    margin-top: 10px;
+}
+
+.second-ul-sec {
+    margin-top: 40px;
+}
+
+.second-ul li::before {
+    content: '+';
+
+    padding-left: 4px;
+    padding-right: 4px;
+    background-image: -moz-linear-gradient(180deg, rgb(101, 228, 206) 0%, rgb(101, 228, 161) 100%);
+    background-image: -webkit-linear-gradient(180deg, rgb(101, 228, 206) 0%, rgb(101, 228, 161) 100%);
+    background-image: -ms-linear-gradient(180deg, rgb(101, 228, 206) 0%, rgb(101, 228, 161) 100%);
+    margin-right: 10px;
+
+
+}
+
+.p-class-grey {
+
+    font-size: 15px;
+    font-family: 'Roboto Slab';
+    color: rgb(105, 105, 128);
+    line-height: 1.6;
+
+}
+
+
+/* third - bg */
+.bg-third {
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+
+.third-h {
+    margin-bottom: 70px;
+}
+
+/* fifth */
+.bg-fifth {
+    padding-top: 175px;
+    background: url(../img/bg.png);
+    background-size: 100%, 100%;
+    background-repeat: no-repeat;
+    padding-bottom: 445px;
+    margin-bottom: 162px;
+}
+
+.fifth-quotes-img {
+    position: absolute;
+    left: 440px;
+
+}
+
+.up-coming {
+    margin-top: 35px;
+}
+
+/* 6 */
+.sixth {
+    margin-bottom: 190px;
+}
+
+/* 7 */
+.sevents {
+    padding-top: 170px;
+    padding-bottom: 170px;
+
+    background-color: rgb(245, 246, 250);
+
+}
+
+.sevents-p {
+
+    font-size: 18px;
+    font-family: "Roboto Slab";
+    color: rgb(68, 68, 79);
+    font-weight: bold;
+    line-height: 1.333;
+
+
+}
+
+.sevents-span {
+
+    font-size: 15px;
+    color: rgb(101, 228, 150);
+    line-height: 2.933;
+
+
+}
+
+.sevents-blog {
+    margin-top: 50px;
+}
+
+/* 8 */
+.eight {
+    padding-top: 160px;
+    padding-bottom: 160px;
+}
+
+.eight-input {
+    color: white;
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 3px;
+    background-color: rgb(68, 68, 79);
+
+
+}
+
+.eight-btn {
+    width: 100%;
+
+    border-radius: 3px;
+    background-image: -moz-linear-gradient(180deg, rgb(101, 228, 206) 0%, rgb(101, 228, 161) 100%);
+    background-image: -webkit-linear-gradient(180deg, rgb(101, 228, 206) 0%, rgb(101, 228, 161) 100%);
+    background-image: -ms-linear-gradient(180deg, rgb(101, 228, 206) 0%, rgb(101, 228, 161) 100%);
+    box-shadow: 0px 2px 0px 0px rgba(101, 228, 125, 0.5);
+
+
+}
+
+/* 9-footer */
+.nineth-footer {
+    background-color: rgb(68, 68, 79);
+    color: #9191b5;
+
+    padding-top: 160px;
+    padding-bottom: 160px;
+}
+
+.footer-ul li {
+    list-style: none;
+}
+
+.footer-ul {
+    padding: 0;
+}
+
+footer span {
+
+    font-size: 18px;
+    font-family: "Roboto Slab";
+    color: rgb(101, 228, 150);
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 1.333;
+
+
+}
+
+@media screen and (max-width:870px) {
+    .sevents-row-btn .mx-auto {
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .first-numbers span {
+        font-size: 50px;
+    }
+    .bg-fifth {
+        padding-bottom: 0;
+        padding-top: 0;
+        background-position: center;
+        background-size: auto;
+    }
+}
